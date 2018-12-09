@@ -13,7 +13,7 @@ Sensor: −120 °C
 Calibrated at 585.25 nm
 
 
-Coloured papers:
+Coloured papers and Straits Settlements 15 cents:
 
 Leica DM LM microscope
 Renishaw inVia
